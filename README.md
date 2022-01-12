@@ -1,4 +1,3 @@
 ### Hello there, my name is Justus 👋.
 
-I'm a designer & developer from Germany. I love writing fast and accessible web applications using **JavaScript**, **PHP** or **Python**. 
-My preferred frontend frameworks are **Vue.js** & **NuxtJS**, mostly driven by PHP / Python APIs or **Kirby CMS**. 
+I'm a designer & developer from Germany. I love to design and write fast accessible web applications. My preferred languages are javascript and php, mostly driven by frontend frameworks like Svelte, Vue & Nuxt. Often powered by the one and only Kirby CMS.
